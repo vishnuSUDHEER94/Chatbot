@@ -5,3 +5,6 @@ with Natural Language Processing (NLP) and it had some
 flaws in it. In order to overcome those problems, we are
 using some deep learning techniques with NLP to create
 an advance chatbot.
+
+IEEE_paper.pdf contains all the information about our Chatbot project
+Chatbotfinalll is our python file that contains all the code
